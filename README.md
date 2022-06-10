@@ -1,8 +1,8 @@
 <div align="center">    
   
-![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Future%20Programmer&fontSize=50&rotate=18&fontAlignY=30&desc=Hello&descAlignY=10)  
+![header](https://capsule-render.vercel.app/api?type=Slice&color=auto&height=300&section=header&text=Future%20Programmer&fontSize=50&rotate=18&fontAlignY=40&desc=Hello&descAlignY=20)  
 
-# <img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">Welcome to Yeonjin's Git!<img src="https://raw.githubusercontent.com/iampavangandhi/iampavangandhi/master/gifs/Hi.gif" width="25px">  
+# Welcome to Yeonjin's Git!    
 ##### Hello, Everyone!
 ![Hi](./hi3.png)  
   
